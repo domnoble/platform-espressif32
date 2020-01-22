@@ -1,0 +1,10 @@
+{
+  "framework-esp32-adf": [
+    {
+      "sha1": "651449bf73bc62ab9af07b8aa9c7d00b55fb1d18",
+      "system": "*",
+      "url": "https://github.com/espressif/esp-adf/archive/v2.0-beta2.tar.gz",
+      "version": "2.0-beta2"
+    }
+  ]
+}
